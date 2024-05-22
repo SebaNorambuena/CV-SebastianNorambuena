@@ -1,0 +1,23 @@
+.jacquard-12-regular {
+    font-family: "Jacquard 12", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bg-back {
+    background-color: black;
+}
+
+.circular {
+    border-radius: 50%;
+}
+
+.img-size {
+    height: 300px;
+    width: 300px;
+}
+
+.img-institutos {
+    height: 200px;
+    width: 300px;
+}
