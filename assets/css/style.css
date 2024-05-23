@@ -32,3 +32,11 @@
     height: 200px;
     width: 400px;
 }
+
+.aling-center{
+    align-items: center;
+}
+
+.margen-down{
+    margin-bottom: 10px;
+}
