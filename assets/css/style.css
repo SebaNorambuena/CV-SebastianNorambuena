@@ -5,6 +5,10 @@
     font-style: normal;
 }
 
+body {
+    background-color: black;
+}
+
 .bg-back {
     background-color: black;
 }
@@ -13,9 +17,23 @@
     border-radius: 50%;
 }
 
+.r-logo {
+    border-radius: 10%;  
+}
+
 .img-size {
     height: 350px;
     width: 350px;
+}
+
+.img-logos {
+    height: 100px;
+    width: 100px;
+}
+
+.img-logos-2 {
+    height: 100px;
+    width: 125px;
 }
 
 .img-portafolio {
