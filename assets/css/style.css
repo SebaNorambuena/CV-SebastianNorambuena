@@ -53,3 +53,21 @@ body {
 .margen-down{
     margin-bottom: 10px;
 }
+
+.shadow-img {
+    box-shadow: 0 0 25px rgba(0, 132, 255, 0.692);
+}
+
+.hover:hover img {
+    height: 110px;
+    width: 110px;
+}
+
+.hover-2:hover img {
+    height: 110px;
+    width: 135px;
+}
+
+.hover-3:hover img {
+    box-shadow: 0 0 25px rgba(0, 132, 255, 0.692);
+}
